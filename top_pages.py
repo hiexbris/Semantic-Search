@@ -40,7 +40,7 @@ def generate_month_year_pairs(start_year, start_month, end_year, end_month):
 def fetch_monthly_top_pages(year, month):
     url = f"https://wikimedia.org/api/rest_v1/metrics/pageviews/top/en.wikipedia/all-access/{year}/{str(month).zfill(2)}/01"
     headers = {
-        "User-Agent": "hiexbris/1.0 (hellojiaditya@gmail.com)"  # polite user-agent
+        "User-Agent": "hiexbris/1.0 (example@gmail.com)"  # polite user-agent
     }
     try:
         response = requests.get(url, headers=headers)
