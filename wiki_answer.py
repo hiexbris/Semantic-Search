@@ -1,7 +1,7 @@
 from embedding_entire_page import ChunkEmbedder
 from top_wiki_pages import HybridRetriever
 from hybrid_chunk_retrieval import HybridChunkRetriever
-from LLM_output_old import AnswerHighlighter
+from LLM_output import AnswerHighlighter
 import sys, io, json
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', line_buffering=True)
 
