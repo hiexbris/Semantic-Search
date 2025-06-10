@@ -1,0 +1,8 @@
+1. Customer collaboration over contract negotiation: Customers and developers work together throughout the project to ensure that the final product meets the customer's needs.
+2. Responding to change over following a plan: The Agile method allows for changes in requirements or priorities during development, rather than strictly adhering to an initial plan.
+3. Working software over comprehensive documentation: Agile emphasizes working on the actual software and delivering functional features as soon as possible, rather than spending a lot of time on extensive documentation.
+4. Individuals and interactions over processes and tools: The success of an Agile project depends more on the team members' abilities to work together effectively and communicate clearly, rather than following rigid processes or using specific tools.
+5. Frequently delivering working software: Agile teams deliver working software in short iterations, usually called sprints, which allows for continuous feedback and improvement throughout the project.
+6. Keeping it simple: Agile encourages simplicity in design and development, focusing on only essential features that bring value to the customer.
+7. The best architectures emerge over time: Rather than designing the entire system upfront, Agile emphasizes evolving the architecture of the software as the project progresses and as new requirements emerge.
+8. Regular reflection and improvement: Agile teams regularly reflect on their work and find ways to improve their processes, tools, and collaboration. This continuous improvement ensures that the team remains adaptable and responsive to changing customer needs.

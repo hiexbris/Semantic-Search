@@ -1,0 +1,13 @@
+1. Prophase: The chromosomes condense and become visible, the nuclear envelope breaks down, centrosomes (microtubule organizing centers) move to opposite poles of the cell, and astral fibers (microtubules emanating from the centrosome) extend.
+
+2. Prometaphase: The nuclear membrane is completely broken down, chromosomes congress towards the equator of the cell, and astral fibers attach to the kinetochore of each chromatid.
+
+3. Metaphase: The chromosomes align at the equator of the cell in a precise alignment called the metaphase plate.
+
+4. Anaphase: The sister chromatids are pulled apart by the shortening of astral fibers and moved to opposite poles of the cell, creating two groups of chromosomes (one group per pole).
+
+5. Telophase: New nuclear envelopes form around each group of chromosomes at the poles of the cell. The chromosomes decondense and become less visible. Spindle fibers break down.
+
+6. Cytokinesis: The cytoplasm divides, forming two daughter cells. This can involve the formation of a cleavage furrow or a contractile ring to physically separate the cells.
+
+These stages collectively represent one complete mitotic division, resulting in two genetically identical daughter cells.

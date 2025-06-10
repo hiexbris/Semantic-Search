@@ -1,0 +1,13 @@
+Neural Networks learn through a process called Backpropagation, which is an algorithm used for supervised learning that allows us to calculate the gradient of the loss function with respect to the weights in the network using chain rule. Here's how it works:
+
+1. Forward Propagation: The input is fed into the neural network, and the information propagates through each layer (from input to output) by means of a series of weighted connections between nodes (neurons). At the end of this process, we get the predicted output from our network.
+
+2. Calculate Loss Function: We compare the predicted output with the actual output, which is provided during training. The difference between them gives us the error or loss.
+
+3. Backward Propagation: Now, we'll calculate the gradients of the weights in each layer that contribute to this error (loss). Starting from the output layer, we calculate the gradient of the weighted connections using chain rule, then move back one layer and calculate the gradient for those weights, and so on until we reach the input layer. These gradients tell us how much our weights contributed to the total error.
+
+4. Update Weights: Finally, we adjust the weights in each layer based on these calculated gradients using a method like Stochastic Gradient Descent (SGD) or Adam optimizer. By reducing the size of the gradients, we are essentially moving the weights in a direction that decreases the error and improves our model's accuracy over time.
+
+5. Iterate: We repeat this process for many iterations (epochs) until the model achieves satisfactory performance or converges to an optimal solution.
+
+In summary, Backpropagation is a method for calculating gradients efficiently in neural networks, enabling them to learn from data and make predictions.

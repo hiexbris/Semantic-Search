@@ -1,0 +1,10 @@
+The Indian Premier League (IPL) is a professional cricket league in India contested during April and May of every year by eight teams representing eight different cities across India. Here's an overview of its format:
+
+- **Teams**: The IPL has eight franchises, namely Mumbai Indians, Chennai Super Kings, Royal Challengers Bangalore, Kolkata Knight Riders, Sunrisers Hyderabad, Delhi Capitals, Rajasthan Royals, and Punjab Kings. Each team is owned by a private entity.
+- **Matches**: The tournament consists of two phases - the league stage (also known as the round-robin) and playoffs. In the league stage, each team plays the other seven teams twice, resulting in 14 games for each team. The top four teams based on points qualify for the playoffs, which consist of Eliminator, Qualifier 1, and Qualifier 2, with the final being the last match of the IPL season.
+- **Structure**: Matches are played in a Twenty20 format, with each team having only one innings to score as many runs as possible before their opponents attempt to chase the total. The team batting second has just 16 overs to complete its innings, as opposed to the full 20 overs of the first innings.
+- **Points**: Teams gain two points for a win and one point for a tie or no result (if both teams score less than 150 runs and can't complete their 20 overs). In case of a super over, the team that scores more in the super over gains an additional point.
+- **Auction**: Each year, before the tournament begins, players are auctioned off to the various franchises. This gives the teams an opportunity to build their squads and determine their strengths and weaknesses ahead of the season.
+- **Broadcasting Rights**: The IPL's broadcasting rights were held by Star India from 2018 to 2022. As of now, Disney Star (formerly known as Star India) holds these rights, while Viacom18 and JioCinema have digital streaming rights.
+
+The Indian Premier League has become a significant global event in the world of cricket due to its unique format, star-studded player lineup, and high-profile ownership. It has also been instrumental in popularizing the sport of cricket beyond India's borders.

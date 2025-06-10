@@ -1,0 +1,9 @@
+1) Electric range: The advertised maximum range of an electric Transit van is 126 mi (203 km), according to the U.S. EPA Multi-Cycle Test (MCT) procedure. However, under the WLTP cycle, it can achieve a maximum range of 317 km (197 mi). (Not found: benefits specific to urban transport.)
+
+2) Power supply: The E-Transit comes with the Pro Power Onboard option, which allows it to supply up to 2.4 kW of electrical power for tools and accessories through conventional AC outlets. (Not found: benefits specific to urban transport.)
+
+3) Battery capacity: In 2024, Ford introduced a larger battery, increasing the usable capacity from 68 kWh to 89 kWh. This could potentially offer longer range or quicker charging for electric transit vans in urban areas with limited charging infrastructure. (Not found: direct benefits specific to urban transport.)
+
+4) Chassis and suspension: The E-Transit has a unique chassis design, which allows it to accommodate the traction battery between the frame rails, and an independent rear suspension system using semi-trailing arms and coil springs instead of a live axle and leaf springs. This could potentially improve ride comfort in urban environments with uneven roads. (Not found: direct benefits specific to urban transport.)
+
+5) Order numbers: The E-Transit had received over 10,000 orders from 300 commercial fleets in the US, and over 5,000 vehicles' worth of orders for the European market. This indicates a growing demand for electric vans in both regions, which may eventually lead to more charging infrastructure being installed in urban areas to support their use. (Not found: direct benefits specific to urban transport.)

@@ -1,0 +1,11 @@
+Blockchain technology ensures data integrity by employing several mechanisms:
+
+1. Immutability: Each block of data is cryptographically linked to its predecessor, creating an unbreakable chain that makes alterations or deletions without network consensus nearly impossible.
+
+2. Consensus mechanism: Each transaction or data entry is verified and sealed through a consensus mechanism, providing an auditable record of all activities.
+
+3. Cryptographic hash functions: These functions transform data into unique hash values, making it extremely difficult for attackers to tamper with the information without being detected.
+
+4. Digital signatures: By signing data blocks with a private key, only authorized parties can create or modify data, while anyone with the public key can verify its authenticity.
+
+5. Decentralization: Unlike traditional centralized databases, blockchain is distributed across multiple nodes, reducing the risk of a single point of failure and increasing the overall security.

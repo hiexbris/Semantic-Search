@@ -1,0 +1,9 @@
+1. Hemoglobin is a protein complex found within red blood cells. It carries oxygen from the lungs to the body's tissues and carbon dioxide back to the lungs.
+2. When red blood cells are broken down or expire, hemoglobin is released into circulation.
+3. This free hemoglobin is then broken down by macrophages into heme and globin.
+4. The heme molecule undergoes two reactions: an oxidation reaction that produces biliverdin (a green color pigment) and iron, and a subsequent reduction reaction that creates bilirubin (a yellow color tetrapyrrole pigment).
+5. Bilirubin is not soluble in the blood, so it is bound to serum albumin for transport through the bloodstream.
+6. When bilirubin reaches the liver, it is conjugated with glucuronic acid by the enzyme UDP-glucuronyl transferase, creating a water-soluble compound called bilirubin diglucuronide (conjugated bilirubin).
+7. Conjugated bilirubin is then excreted into the gallbladder and eventually enters the intestinal tract via bile.
+8. In the intestine, symbiotic bacteria convert bilirubin into urobilinogen, which is further metabolized into stercobilin and stool's characteristic brown coloration. Some urobilinogen is reabsorbed back into the gastrointestinal cells.
+9. Not found: The exact structure of hemoglobin (molecular formula, number of subunits, etc.)

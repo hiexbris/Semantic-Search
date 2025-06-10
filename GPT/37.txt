@@ -1,0 +1,1 @@
+Machine learning includes algorithms that learn from data (e.g., decision trees, SVMs). Deep learning is a subset using neural networks with many layers to automatically learn hierarchical feature representations from raw data.

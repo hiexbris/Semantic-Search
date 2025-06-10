@@ -1,0 +1,1 @@
+A radionuclide's half‑life is the time it takes for half of a given amount to decay. It’s a fixed property (e.g., carbon-14 ~5730 years), useful for dating and predicting decay processes.

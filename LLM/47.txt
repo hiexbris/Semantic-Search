@@ -1,0 +1,5 @@
+Gross Domestic Product (GDP) refers to the total market value of all goods and services produced within a country in a specific time period, usually one year. It includes all income earned by factors of production such as labor and capital, regardless of where they reside.
+
+   Gross National Product (GNP), on the other hand, is similar but measures the total market value of all goods and services produced by a country's residents, regardless of where those goods and services are located. This means that exports are added to domestic production, while imports are subtracted from it, unlike with GDP where only domestic production is accounted for.
+
+   In essence, GNP provides a measure of a country's economic activity from the perspective of its residents, whereas GDP does so from the standpoint of the territory in which the activity takes place. Both indicators are widely used by economists to assess the overall health and productivity of a nation's economy.

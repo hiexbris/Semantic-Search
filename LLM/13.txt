@@ -1,0 +1,11 @@
+Blockchain technology ensures data integrity through several key features:
+
+1. Immutability: Once data is recorded on a blockchain, it cannot be altered retroactively without altering all subsequent blocks, which requires the consensus of the network. This makes the data highly resistant to tampering and ensures its permanence.
+
+2. Consensus mechanisms: Blockchains rely on distributed networks where multiple participants validate transactions before they can be added to the blockchain. This consensus process provides an additional layer of security and verifies that all data is accurate and consistent across the network.
+
+3. Cryptographic hashing: Each block in a blockchain contains a cryptographic hash of the previous block, creating an unbroken chain. If any change is made to the data within a block, its hash will also be modified, making it easy to detect discrepancies and ensuring that any attempt to alter data is immediately apparent.
+
+4. Transparency: All transactions and updates on a blockchain are visible to all participants in the network. This transparency helps prevent fraudulent activities and ensures that all parties have access to accurate and up-to-date information.
+
+5. Decentralization: Blockchains operate without central authorities, which eliminates the risk of manipulation or censorship. The data is stored on multiple nodes across the network, making it less vulnerable to attacks and ensuring that there are multiple copies of the blockchain in case of failures or errors.

@@ -1,0 +1,11 @@
+1. Light Reaction (Photosystem I & II)
+   - Absorption of light energy by chlorophyll molecules in the thylakoid membrane, causing electrons to be excited and transferred through a series of electron carriers. This creates a proton gradient, which is used for ATP synthesis.
+   - During this process, water (H2O) is split into oxygen (O2), protons (H+), and electrons (e-). The oxygen is released as a waste product.
+
+2. Calvin Cycle (Carbon Fixation)
+   - Carbon dioxide (CO2) from the air enters the plant cell through stomata and diffuses into the chloroplasts, where it's fixed into an organic molecule called a carbohydrate (e.g., glucose).
+   - This process involves three main stages: carbon fixation, reduction, and regeneration of the starting compound (ribulose bisphosphate or RuBP).
+   - The ATP and NADPH produced during the light reaction provide the energy needed for this cycle to occur.
+
+3. Final Product Formation
+   - The carbohydrates produced in the Calvin Cycle are then used as building blocks to create other organic molecules, such as cellulose, starch, and various sugars. These products can be stored for later use or transported throughout the plant.

@@ -1,0 +1,9 @@
+1) Power is delivered directly from a DC source to the motor, while power is given to an AC motor by inducing rotation. (Found in the text)
+
+2) A DC motor uses three types of losses: friction loss, iron loss, and copper loss. (Found in the text)
+
+3) An AC motor does not require brushes and commutators as a DC motor does because it doesn't produce direct current. (Implied from the information that DC motors need brushes and commutators to generate DC current)
+
+4) AC generators are stronger and easier to manufacture than DC generators. (Found in the text)
+
+5) The slip of an induction motor is defined as the difference between the synchronous speed and the rotor speed, expressed as a percentage of the synchronous speed. (Found in the text)

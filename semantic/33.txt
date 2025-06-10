@@ -1,0 +1,14 @@
+The principles of Agile software development, as outlined in the Agile Manifesto, are:
+
+1. Customer Satisfaction: Deliver working software frequently to customers so they can provide feedback and value is delivered quickly.
+2. Collaboration: Business people and developers must work together daily throughout the project.
+3. Adaptability: Respond to change over following a plan. Agile processes harness change for the customer's competitive advantage.
+4. Continuous Improvement: Simplify procedures, amplify working arrangements, and promote continuous improvement.
+5. Technical Excellence: Good design enhances agility.
+6. Sustainable Development: Maintain a constant pace indefinitely.
+7. Early Delivery: Working software is the primary measure of progress.
+8. Continuous Integration: Frequently integrate code changes to maintain a potentially releasable working system.
+9. Simplicity: The art of maximizing the amount of work not done - is essential.
+10. Self-Organization: Encourage self-organization and technical empowerment at all levels.
+11. Face-to-Face Conversation: Facilitate face-to-face conversation whenever possible.
+12. Continuous Reflection: Regularly reflect on how to become more effective, then tune and adjust.

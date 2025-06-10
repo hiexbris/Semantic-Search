@@ -1,0 +1,1 @@
+AC motors run on alternating current and are simpler, reliable, used in household and industrial applications. DC motors run on direct current, provide easy speed control and high torque, used in robotics, traction systems, and automotive starters.

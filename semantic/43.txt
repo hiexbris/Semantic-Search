@@ -1,0 +1,13 @@
+1. Address size: IPv4 uses a 32-bit address while IPv6 uses a 128-bit address. This makes IPv6 offer significantly more unique addresses than IPv4.
+
+2. Address format: An IPv6 address is written using hexadecimal numbers separated by colons, whereas an IPv4 address is written using periods to separate the four octets.
+
+3. Address space: IPv6 provides a much larger address space compared to IPv4. It is estimated that there are 4x10^18 IPv6 addresses per square meter on the Earth's surface, preventing the exhaustion of addresses in the foreseeable future.
+
+4. Routing infrastructure: The encoding of IPv6 addresses uses a hierarchy similar to CIDR (Classless Inter-Domain Routing), which simplifies routing compared to IPv4.
+
+5. Redundancy: There are some redundant domains in the IPv4 header format, which have been either dropped or listed as optional in IPv6 for improved efficiency.
+
+6. Quality of Service (QoS): IPv6 supports quality of service (QoS), while IPv4 does not natively support QoS without additional configurations.
+
+7. Ideal protocol for neighboring node interaction: IPv6 is considered an ideal protocol for neighboring node interaction, as it was designed with this aspect in mind.

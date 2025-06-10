@@ -1,0 +1,1 @@
+Backpropagation calculates the gradient of the loss function with respect to each weight by chain rule, propagating errors backward through layers. Weights are updated using gradient descent to minimize loss over training data.

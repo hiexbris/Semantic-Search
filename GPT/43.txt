@@ -1,0 +1,1 @@
+IPv4 uses 32-bit addresses (allowing ~4.3B addresses) and requires NAT due to scarcity. IPv6 uses 128-bit addresses, supports built-in security (IPsec), simpler header structure, and auto-configuration—solving IPv4 limitations.

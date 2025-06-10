@@ -1,0 +1,8 @@
+1. The main objectives of Chandrayaan-3 mission are:
+    - Demonstrate end-to-end capability in safe landing and roving on the lunar surface.
+    - Study spectral and polarimetric measurements of Earth from the lunar orbit using the Spectro-polarimetry of Habitable Planet Earth (SHAPE) payload.
+    - Measure thermal conductivity and temperature with Chandra’s Surface Thermophysical Experiment (ChaSTE).
+    - Study seismicity around the landing site with Instrument for Lunar Seismic Activity (ILSA).
+    - Estimate plasma density and its variations using Langmuir Probe (LP).
+    - Conduct lunar laser ranging studies with a passive Laser Retroreflector Array from NASA.
+    - Analyze the lunar surface using Alpha Particle X-ray Spectrometer (APXS) and Laser Induced Breakdown on the lunar surface payloads in Rover module.

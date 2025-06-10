@@ -1,0 +1,13 @@
+The 2008 global financial crisis was primarily caused by a combination of factors, including:
+
+1. Deregulation of financial markets: Over the previous two decades, there had been significant deregulation of financial markets worldwide, which allowed banks to engage in complex financial transactions and take on more risk than before.
+
+2. Subprime mortgage lending: Lenders offered risky mortgages to borrowers with poor credit histories (subprime borrowers), encouraging them to buy homes through adjustable-rate mortgages. These loans were then bundled together and sold as mortgage-backed securities, which were often given high credit ratings due to the misuse of rating models.
+
+3. Securitization: The practice of pooling assets (like mortgages) and selling them as securities made it difficult for investors to understand their true risks, as they relied on the credit ratings agencies' assessments. This lack of transparency contributed to a false sense of security in the market.
+
+4. Financial leverage: Banks used excessive amounts of borrowed money (leverage) to make loans and invest in complex financial products. When house prices started falling, many of these assets lost value, causing banks' losses to mount quickly.
+
+5. Interconnectedness of global financial systems: The intricate web of connections between global financial institutions meant that problems in one part of the world could easily spread to other markets, magnifying the impact of the crisis as it unfolded.
+
+6. Ineffective risk management: Both banks and investors failed to manage risks effectively, often relying on outdated models or failing to recognize new risks altogether. This lack of prudent risk management exacerbated the extent of the financial losses suffered during the crisis.

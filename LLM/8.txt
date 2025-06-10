@@ -1,0 +1,11 @@
+CRISPR-Cas9 is a revolutionary tool for genome editing, discovered in bacteria as an immune system defense mechanism against viruses. It consists of two main components: the Cas9 enzyme and a guide RNA molecule. Here's how it works:
+
+1. Guide RNA (gRNA): The gRNA acts as a navigator to target specific sequences in DNA, called protospacers. This navigation is achieved by recognizing short sequences known as protospacer adjacent motifs (PAMs), which are usually located immediately downstream of the protospacer sequence.
+
+2. Cas9 Enzyme: The Cas9 enzyme functions as a molecular scissors, cutting double-stranded DNA at the specific site targeted by gRNA. This break in the DNA is repaired through one of two mechanisms: non-homologous end joining (NHEJ) or homology-directed repair (HDR).
+
+3. Repair Mechanisms:
+   a. NHEJ: If no template for repair is available, the two broken ends are directly joined back together, often leading to insertions or deletions (indels) at the site of the cut, which can disrupt gene function. This method is error-prone and usually results in random mutations.
+   b. HDR: If a DNA template is provided, the broken DNA ends will be repaired using this template, allowing precise changes to be made to the target sequence. This method requires the presence of homologous sequences flanking the cut site, making it less efficient but more precise than NHEJ.
+
+CRISPR-Cas9 has revolutionized genetics and biology research, enabling scientists to edit genes with unprecedented ease and accuracy. It holds immense potential for applications ranging from basic research to clinical treatments, including correcting genetic diseases, developing new crops, and even gene therapy for various ailments.

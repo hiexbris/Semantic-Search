@@ -1,0 +1,1 @@
+The Pythagorean theorem states that in a right triangle, the square of the hypotenuse (c) equals the sum of the squares of the other two sides: a² + b² = c².
