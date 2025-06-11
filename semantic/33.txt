@@ -1,14 +1,12 @@
-The principles of Agile software development, as outlined in the Agile Manifesto, are:
-
-1. Customer Satisfaction: Deliver working software frequently to customers so they can provide feedback and value is delivered quickly.
-2. Collaboration: Business people and developers must work together daily throughout the project.
-3. Adaptability: Respond to change over following a plan. Agile processes harness change for the customer's competitive advantage.
-4. Continuous Improvement: Simplify procedures, amplify working arrangements, and promote continuous improvement.
-5. Technical Excellence: Good design enhances agility.
-6. Sustainable Development: Maintain a constant pace indefinitely.
-7. Early Delivery: Working software is the primary measure of progress.
-8. Continuous Integration: Frequently integrate code changes to maintain a potentially releasable working system.
-9. Simplicity: The art of maximizing the amount of work not done - is essential.
-10. Self-Organization: Encourage self-organization and technical empowerment at all levels.
-11. Face-to-Face Conversation: Facilitate face-to-face conversation whenever possible.
-12. Continuous Reflection: Regularly reflect on how to become more effective, then tune and adjust.
+1. Deliver working software frequently (from weeks to months, preferably shorter timescales) - The second Agile principle encourages welcoming changing requirements and delivering working software frequently.
+2. Welcome changing requirements, even late in development - The second Agile principle also encourages welcoming changing requirements as this could be a good competitive advantage for you.
+3. Working software is the primary measure of progress - The seventh agile principle emphasizes considering only the working software as the signal of progress. Everything else is considered noise or irrelevant.
+4. Business people and developers must work together daily throughout the project - The third agile principle advocates for close collaboration between business stakeholders and development teams, to keep any misunderstandings at bay.
+5. Working software should be delivered in brief time periods (sprints) in order to support adaptation - The eighth agile principle states that delivering working software frequently allows the client to evaluate the package increment regularly and offer necessary feedback to the software development team for adaptation.
+6. Continuous attention to technical excellence and good design enhances agility - The ninth agile principle advocates for investing in scalable, secure, high-performance tech to build resilience and consistently beat competitors.
+7. Simplicity--the art of maximizing the amount of work not done--is essential - Lean software development practices are popular for their focus on minimalism and delivering value without excessive effort.
+8. The best architectures, requirements, and designs emerge from self-organizing teams - For optimal performance, the agile team should be empowered to design stellar architectures and product designs independently of red-ribbon processes for approval of design/architecture.
+9. Regular adaptation is needed to remain responsive to change - The Agile methodology emphasizes continuous improvement and suggests adapting incrementally to keep pace with unpredictability and changes in user needs or market conditions.
+10. Regularly reflect on how to become more effective, then tune and adapt as necessary - To ensure sustained progress, the agile team should regularly reflect on their work processes and make adjustments as needed for continuous improvement.
+11. Agile processes promote sustainable development - The eighth agile principle underlines the importance of a healthy and productive work environment, where developers can maintain a constant pace indefinitely without burnout or toxicity.
+12. Continuous attention to technical excellence and good design enhances agility - The ninth agile principle is an ardent backer of good tech stack, architecture, and design to build resilience and consistently beat competitors.

@@ -1,12 +1,7 @@
-The Indian Premier League (IPL) is a professional cricket league in India. Each team consists of a maximum of 25 players, with a limit of 8 overseas players. The team that accumulates the most points during the regular season, which runs from September to March and includes 26 matches, is declared the IPL champions and presented with the League Winners' Shield.
-
-In case two or more teams are tied on points, the following criteria are applied in order:
-1. Head-to-head records between the tied teams.
-2. The team with the higher number of points in matches between all tied teams.
-3. If the points remain equal, then goals scored in these matches will be considered.
-4. If the tie still persists, the team that has conceded fewer goals during the league stage will be ranked higher.
-5. A playoff will take place if there are three teams tied for the top positions.
-
-The top two clubs after the regular season automatically progress to the IPL playoffs, while the third-through-sixth ranked teams participate in a playoff. The team that wins the final playoff match is declared the IPL Cup winners.
-
-Not found: information about which league or competition these teams qualify for.
+1. The Indian Super League (ISL) is a football league in India, organized by Football Sports Development Limited (FSDL).
+2. The ISL was launched in 2013 and has expanded from eight teams in its inaugural season to ten teams as of the 2025 season.
+3. The league follows a round-robin format with each team playing every other team twice during the regular season, and the top two clubs automatically progress to the playoffs.
+4. The third-through-sixth ranked teams compete in a single-elimination match, and the winners join the first and second-ranked teams in the semifinals.
+5. The final is played at the home stadium of the higher-ranked team in the league phase.
+6. ISL clubs can qualify for the AFC Champions League Two, a secondary club competition organized by the Asian Football Confederation (AFC).
+7. Not found: Information about the teams that have won the ISL or its relationship to the Indian Premier League (IPL) is not provided in this text.

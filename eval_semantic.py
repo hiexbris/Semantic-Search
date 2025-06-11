@@ -8,8 +8,8 @@ import time
 import gc
 import torch
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', line_buffering=True)
-engine = GoogleCSERetriever(api_key="AIzaSyDLVoQR9QPYNupSs30w5jwOPJPEmRpdhbw", search_engine_id="b4978ed8b79894c9d", top_k=5)
-closest_websites = HybridRetriever(top_k=4, N_DENSE=5, N_SPARSE=3, k_rpf=60, alpha=0.6)
+engine = GoogleCSERetriever(api_key="AIzaSyA7giAPWYATboiSHkfQze3vd3nglWJ0iME", search_engine_id="12d2136626f734caf", top_k=9)
+closest_websites = HybridRetriever(top_k=3, N_DENSE=30, N_SPARSE=15, k_rpf=60, alpha=0.6)
 chunks_websites = ChunkEmbedder(chunk_size=150, chunk_overlap=30)
 
 ### RATHER THAN OUTPUTTING MULTIPLE ANSWERS IT ONLY OUTPUTS SINGLE ANSWER FOR EVALUATION PRUPOSES WHILE THE MAIN FILE OUTPUTS MUTLIPLE ANSWER PER QUERY FROM DIFFRENT SOURCES FOR USER TO CHOOSE
@@ -22,7 +22,7 @@ def answers(query):
                 "top_results": websites1["top_results"] + websites2["top_results"]}
     
     faiss, sparse_matrix, meta_data = chunks_websites.process(websites) # EMBED THESE WEBSITES CONTENT
-    relevant_chunk = HybridChunkRetriever(chunk_metadata=meta_data, faiss_index=faiss, tfidf_matrix=sparse_matrix, n_dense=5, n_sparse=3, top_k=3, alpha=0.6) # ONLY RETURNS ONE PASSAGE WHICH IS AT THE TOP
+    relevant_chunk = HybridChunkRetriever(chunk_metadata=meta_data, faiss_index=faiss, tfidf_matrix=sparse_matrix, n_dense=20, n_sparse=15, top_k=5, alpha=0.6) # ONLY RETURNS ONE PASSAGE WHICH IS AT THE TOP
     passage = relevant_chunk.retrieve(query) # FIND THE MOST RELEVANT CHUNKS OF THE EMBEDDED WEBSITES
     relevant_chunk.cleanup()
     print("PASSAGE DONE")

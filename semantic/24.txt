@@ -1,1 +1,13 @@
-Desalination plants work by converting saline water (usually sea water) into fresh water through either distillation or reverse osmosis processes. The two most common methods are multi-stage flash distillation and reverse osmosis, which account for a large majority of the world's desalination capacity. Solar distillation is another method that mimics the natural water cycle, heating seawater to cause evaporation and then condensing the vapor into fresh water. The byproduct of these processes is brine, which contains the salt and minerals removed from the water. Desalination is important for supplying fresh water in regions with scarce freshwater resources but can be energy-intensive and costly.
+1. Desalination is the process of removing salts and other minerals from water to make it suitable for human consumption, irrigation, or industrial uses. This allows communities to use a broader variety of water sources than conventional techniques, improving the resilience of water-stressed communities.
+
+2. About 30% of water in the U.S. comes from underground water reserves known as aquifers. Much of this water is desalinated using reverse osmosis technology, which is the most common membrane technology—more than two-thirds of desalination facilities nationwide are brackish water reverse osmosis facilities, according to a report by the U.S. Bureau of Reclamation.
+
+3. Osmosis refers to the natural movement of water from an area of high salt concentration to an area of low salt concentration. Reverse osmosis uses high-energy pumps to reverse that process, pressurizing water across one side of the membrane, leaving behind highly concentrated salty brine on the other.
+
+4. Desalination processes produce high-quality drinking water that doesn't transmit diarrheal or other diseases, which is important because nearly 4 million people die each year "due to inadequate water supply, sanitation and hygiene," according to the United Nations.
+
+5. The energy intensity of seawater desalination has improved significantly over time: It is now about 3 kWh/m3 (in 2018), down by a factor of 10 from 20-30 kWh/m3 in 1970. However, desalination represented about 25% of the energy consumed by the water sector in 2016.
+
+6. Alternatives to traditional desalination methods are being researched and developed, such as wave-powered desalination systems, wind energy coupled with desalination, geothermal energy driving desalination, nanotube membranes of higher permeability than current generation of membranes, biomimetic membranes, and membranes created via co-axial electrospinning of PVDF-HFP and silica aerogel that are able to filter 99.99% of salt after continuous 30-day usage.
+
+7. As of 2018, there were over 150 countries operating approximately 18,426 desalination plants producing 87 million cubic meters of clean water each day and supplying over 300 million people.

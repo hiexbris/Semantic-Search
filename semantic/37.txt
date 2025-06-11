@@ -1,1 +1,7 @@
-Machine Learning and Deep Learning differ in their complexity level and the types of tasks they are suited for. While both are subsets of Artificial Intelligence (AI), Deep Learning is a subset of Machine Learning that uses artificial neural networks (ANNs) to mimic the learning process of the human brain. In contrast, Machine Learning can automatically adapt with minimal human interference without necessarily using ANNs. Deep Learning is more complex and is particularly well-suited for tasks involving large amounts of data and pattern recognition in images or sounds.
+* Artificial Intelligence (AI) is the overarching system that uses computer science and data to enable problem-solving in machines.
+* Machine Learning (ML) is a subset of AI that focuses on developing algorithms and statistical models that enable computers to learn and make predictions or decisions without being explicitly programmed.
+* Deep Learning (DL) is a subfield of ML that uses neural networks with multiple layers to analyze complex patterns and relationships in data, inspired by the structure and function of the human brain.
+* DL solutions are trained using large amounts of data and algorithms that can learn and improve over time, making them well-suited for complex, real-world problems.
+* DL encompasses various architectures, including convolutional neural networks (CNN), recurrent neural networks (RNN), generative adversarial networks (GAN), and autoencoders.
+* Deep learning requires more data volume and computational resources compared to ML.
+* While ML models typically require feature engineering with human intervention, deep learning models perform feature engineering with minimal human intervention using feedback from known errors.

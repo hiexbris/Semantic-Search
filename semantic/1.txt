@@ -1,8 +1,7 @@
-1. The main objectives of Chandrayaan-3 mission are:
-    - Demonstrate end-to-end capability in safe landing and roving on the lunar surface.
-    - Study spectral and polarimetric measurements of Earth from the lunar orbit using the Spectro-polarimetry of Habitable Planet Earth (SHAPE) payload.
-    - Measure thermal conductivity and temperature with Chandra’s Surface Thermophysical Experiment (ChaSTE).
-    - Study seismicity around the landing site with Instrument for Lunar Seismic Activity (ILSA).
-    - Estimate plasma density and its variations using Langmuir Probe (LP).
-    - Conduct lunar laser ranging studies with a passive Laser Retroreflector Array from NASA.
-    - Analyze the lunar surface using Alpha Particle X-ray Spectrometer (APXS) and Laser Induced Breakdown on the lunar surface payloads in Rover module.
+1. Chandrayaan-3 is a moon mission operated by India's space agency ISRO. It aims to soft land on the lunar surface and deploy a rover for in-situ experiments.
+
+2. The rover has two payloads: Alpha Particle X-ray Spectrometer (APXS) and Laser Induced Breakdown Spectroscope (LIBS), which will attempt to find materials from the ancient lunar crust. Additionally, one payload, the Spectro-polarimetry of Habitable Planet Earth (SHAPE), will measure spectral and polarimetric radiation to understand signatures of habitable Earth-like planets.
+
+3. The mission has three main objectives: landing on the moon safely, enabling the rover to rove on the lunar surface, and conducting in-situ scientific experiments on the lunar surface.
+
+4. If successful, Chandrayaan-3 will make India the fourth nation to land a spacecraft on the moon, joining the Soviet Union, the United States, and China.

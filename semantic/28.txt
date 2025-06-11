@@ -1,8 +1,7 @@
-1. Excessive speculation on housing values by homeowners and financial institutions (leading to the 2000s United States housing bubble).
-2. Predatory lending for subprime mortgages.
-3. Deficiencies in regulation.
-4. Cash out refinancings that led to an increase in consumption unsustainable when home prices declined.
-5. The collapse of mortgage-backed securities (MBS) tied to U.S. real estate and a vast web of derivatives linked to those MBS, which began in early 2007.
-6. The liquidity crisis that spread to global institutions by mid-2007 and was climaxed with the bankruptcy of Lehman Brothers in September 2008, causing a stock market crash and bank runs in several countries.
-7. The downturn in the US housing market acting as a catalyst for a financial crisis that spread globally through linkages in the global financial system.
-8. Recovery from the crisis was much slower than past recessions not associated with a financial crisis.
+The global financial crisis was primarily caused by political policies that encouraged low-income households to buy homes and deregulated the financial sector to lend to these households. Banks lowered their lending standards, increasing loan-to-value ratios, which enabled credit-constrained and lower-income households to enter the housing market. This subprime sector in the United States grew from 7.6% of mortgage originations in 2001 to 23.5% in 2006. Regulation of this sector was too lax, with insufficient regulation of institutions creating and selling complex and opaque mortgage-backed securities (MBS) to investors.
+
+The crisis exacerbated when house prices began to fall, causing banks and investors to incur large losses due to high levels of leverage (borrowing money to purchase assets). This reliance on short-term loans led to a dependence on lenders extending new loans as existing loans were repaid. The ultimate cause of the global financial crisis was political.
+
+The policy response to the crisis came from central banks, which lowered interest rates and provided substantial amounts of money to banks and other institutions with good assets that could not borrow in financial markets. Governments also increased spending to stimulate demand and support employment throughout the economy. This unprecedented trillions of dollars in bailouts and stimulus aimed to offset the decline in consumption and lending capacity, avoid a further collapse, encourage lending, restore faith in the integral commercial paper markets, and provide banks with enough funds to allow customers to make withdrawals.
+
+Not found: direct correlation between mortgage brokers and the crisis, or specific mention of Lehman Brothers as a moment that changed the world on August 9, 2007.

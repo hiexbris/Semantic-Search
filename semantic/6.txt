@@ -1,4 +1,14 @@
-1. The Lokpal Act mandates public servants to declare their assets and liabilities, including those of their spouses and dependent children.
-2. These declarations must be filed by July 31st every year and published on the Ministry's website by August 31st.
-3. The Act seeks to establish an institution (Lokpal) to inquire into allegations of corruption against certain public functionaries, such as the Prime Minister, cabinet ministers, members of parliament, Group A officials of the Central Government.
-4. In 2014, a Bill was proposed to amend the Lokpal Act, aiming to modify the provision related to declaration of assets by public servants. The new provision would require public servants to declare all their assets and liabilities in the prescribed manner by the central government. (If passed)
+1. What is the main objective of the Lok Pal Bill?
+    - The Lok Pal Bill seeks to establish an institution that will inquire into allegations of corruption against certain public functionaries.
+
+2. Who comprises the Lok Pal?
+    - The Lok Pal consists of a Chairperson and up to eight members. The Chairperson, and at least half of the members have to be current or former judges of the Supreme Court or Chief Justices of High Courts. The other members will have at least 25 years experience in matters related to anti-corruption policy, vigilance, public administration, finance, law, and management.
+
+3. Who selects the Lok Pal?
+    - The Selection Committee consists of the Prime Minister, Lok Sabha Speaker, the Leader of Opposition in each House of Parliament, a Union Cabinet Minister, a sitting Supreme Court Judge, a sitting High Court Chief Justice, an eminent jurist, and a person of eminence in public life. The two judges on this Committee will be nominated by the Chief Justice of India.
+
+4. Who comes under the jurisdiction of the Lok Pal?
+    - There are seven categories of persons under the Lok Pal: (a) Prime Minister after demitting office; (b) current and former Ministers; (c) current and former MPs; (d) all Group A officers of the central government; (e) all Group A equivalent officers or PSUs and other government bodies; (f) directors and officers of NGOs which receive government financing; (g) directors and officers of NGOs which receive funds from the public, and have annual income above a level to be notified by the government.
+
+5. What is the role of the Lok Pal regarding the declarations of assets and liabilities by public servants?
+    - The Bill requires public servants to declare their assets and liabilities. The Standing Committee that examined this Bill recommended that the public servants should declare the assets and liabilities to their Competent Authority. For example, for an MP, the competent authority would be the Speaker of Lok Sabha or Chairman of Rajya Sabha. Such declarations should then be forwarded to the Lokpal to keep in a fiduciary capacity. Both these authorities would be competent to review the returns filed by the public servants. In light of such double scrutiny, the Committee recommended that public disclosure of such assets and liabilities would not be necessary.

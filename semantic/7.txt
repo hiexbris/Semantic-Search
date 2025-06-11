@@ -1,6 +1,7 @@
-1. Mild gastrointestinal side effects: Nausea, vomiting, diarrhea, stomach pain, and loss of appetite.
-2. Other common side effects: Metallic taste, headache, and a feeling of weakness or dizziness.
-3. Long-term use risk: Vitamin B12 deficiency, which can cause symptoms such as extreme tiredness, breathlessness, and faintness.
-4. Rare but severe side effects: Lactic acidosis (a life-threatening condition caused by a pH imbalance and too much lactic acid in the bloodstream). This requires immediate medical treatment.
-5. Allergic reaction symptoms: Rash that is swollen, raised, itchy, blistered or peeling; anaphylaxis.
-6. Note for anyone concerned about vitamin B12 deficiency: Foods high in vitamin B12 and supplementation can help boost levels. It's important to follow a healthy meal plan and have food in your stomach while taking metformin.
+1. Metformin should be taken after a meal to reduce stomach side effects like nausea, vomiting, diarrhea, or gas.
+2. The most serious side effect of metformin is lactic acidosis, a potentially life-threatening condition characterized by the buildup of lactic acid in the bloodstream.
+3. Metformin may interact with other medications such as those managing blood pressure, seizures, heartburn, and chlorostrol.
+4. Metformin can decrease vitamin B12 levels in your body, which may cause anemia in rare cases.
+5. Early signs of hypoglycemia include shakiness, sweating, fast heartbeat, and anxiety. If you combine metformin with insulin or other diabetes medications that raise your risk for hypoglycemia, you may develop hypoglycemia.
+6. Metformin is generally considered safe during pregnancy or nursing, either by itself or with insulin.
+7. In rare cases, it's possible to have a serious allergic reaction (anaphylaxis) to metformin, characterized by a swollen, raised, itchy, blistered, or peeling rash.

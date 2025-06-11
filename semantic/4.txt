@@ -1,1 +1,13 @@
-Demonetization in India (2016) led to a temporary reduction in economic activity, estimated to be at least 3 percentage points in November and December 2016. However, the effects began to dissipate in the following months. The impact was an order of magnitude smaller than the decline in cash itself, suggesting that households adapted by using other forms of payment or informal lines of credit. This can be seen through the doubling of transactions using Indian e-wallet technology and a substantial increase in credit- and debit-card transactions. By March 2017, new bills in circulation in the median district represented 77% of the value of the old currency, and by June 2017, the shortage was mostly over.
+1. India demonetized 500 and 1000 rupee banknotes in November 2016.
+2. The primary reasons given for the move were to combat black money and promote digital transactions.
+3. The Union cabinet approved the decision on November 8, 2016.
+4. The Reserve Bank of India (RBI) reported that the total banknotes in circulation in India before demonetization were valued at ₹17.77 trillion.
+5. In the aftermath of demonetization, there was a decrease in cash transactions due to scarcity and long queues outside banks and ATMs.
+6. The debit card point of sales transactions increased significantly after demonetization, but the value of credit cards saw no sharp growth.
+7. Mobile wallet transactions also picked up immediately after demonetization, followed by a dip in mid-2017 due to easing cash shortages. There was again a sharp rise thereafter.
+8. By April 2018, the volume of digital payments had doubled. After the return of cash, the growth in digital payment has been modest.
+9. The currency-to-GDP ratio declined to 8.8% in 2016–17 due to demonetization but increased again to 10.9% in 2017–18.
+10. The activities of terror groups, particularly in Jammu and Kashmir, decreased following demonetization, but they returned within a few months.
+11. Critics of the move have argued that it disproportionately affected rural households and small industries, and that it was carried out without prior study or research.
+12. Opposition parties organized protests against demonetization, and some states that went to elections in 2017 saw a backlash against the ruling BJP party over the issue.
+13. The general rise in digital payments and cashless transactions has been attributed to demonetization. However, data released by RBI in November 2021 showed that cash circulation in India has actually increased significantly since demonetization and demonetization has not necessarily converted cash users to digital users.

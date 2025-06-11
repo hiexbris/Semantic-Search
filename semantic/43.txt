@@ -1,13 +1,17 @@
-1. Address size: IPv4 uses a 32-bit address while IPv6 uses a 128-bit address. This makes IPv6 offer significantly more unique addresses than IPv4.
+1. Can IPv4 and IPv6 communicate with each other?
+   - Yes, they can coexist within the same network, but they are not designed to be interoperable. Communication between them requires dual-stack devices or intermediate translation mechanisms such as tunneling techniques.
 
-2. Address format: An IPv6 address is written using hexadecimal numbers separated by colons, whereas an IPv4 address is written using periods to separate the four octets.
+2. What is the main difference between IPv4 and IPv6 in terms of address size?
+   - The main difference is that IPv4 uses a 32-bit address while IPv6 uses a 128-bit address, providing IPv6 with a much larger pool of unique addresses.
 
-3. Address space: IPv6 provides a much larger address space compared to IPv4. It is estimated that there are 4x10^18 IPv6 addresses per square meter on the Earth's surface, preventing the exhaustion of addresses in the foreseeable future.
+3. What is the primary function of both IPv4 and IPv6?
+   - The primary function of both IPv4 and IPv6 is to send and receive data across the internet, routed to the correct device, independent of the underlying networking infrastructure.
 
-4. Routing infrastructure: The encoding of IPv6 addresses uses a hierarchy similar to CIDR (Classless Inter-Domain Routing), which simplifies routing compared to IPv4.
+4. Is IPv6 directly interoperable with IPv4?
+   - No, IPv6 was not designed to be directly interoperable with IPv4. Translation facilities must exist for internetworking or nodes must have duplicate networking software for both networks.
 
-5. Redundancy: There are some redundant domains in the IPv4 header format, which have been either dropped or listed as optional in IPv6 for improved efficiency.
+5. What is the significance of the exhaustion of IPv4 addresses?
+   - The exhaustion of IPv4 addresses signifies that there are not enough unique IP addresses to accommodate the increasing demand of connected devices, making IPv6 necessary for future growth in internet connectivity.
 
-6. Quality of Service (QoS): IPv6 supports quality of service (QoS), while IPv4 does not natively support QoS without additional configurations.
-
-7. Ideal protocol for neighboring node interaction: IPv6 is considered an ideal protocol for neighboring node interaction, as it was designed with this aspect in mind.
+6. What is Stateless Address Autoconfiguration (SLAAC) used for?
+   - Stateless Address Autoconfiguration (SLAAC) is a method employed in IPv6 where the device itself can autoconfigure its own address without an external party or protocol, reducing overall network traffic.

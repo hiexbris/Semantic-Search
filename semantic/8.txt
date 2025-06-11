@@ -1,5 +1,13 @@
-1) In a CRISPR-Cas9 gene editing system, CRISPR "spacer" sequences are transcribed into short RNA sequences (CRISPR RNAs or crRNAs) that guide the system to matching DNA sequences. When the target DNA is found, Cas9, one of the enzymes produced by the CRISPR system, binds to the DNA and cuts it, shutting off the targeted gene. Researchers can modify Cas9 to activate gene expression instead of cutting the DNA.
+1. What is CRISPR? (Answer: CRISPR is a tool used for editing DNA with high precision, discovered as an immune system in microbes to help protect them from invading viruses.)
 
-2) CRISPR-Cas9 is an efficient and customizable alternative to other genome editing tools. Unlike other tools, it doesn't need separate cleaving enzymes because the CRISPR system itself can cut DNA strands. It can also be easily matched with tailor-made "guide" RNA (gRNA) sequences designed to lead them to their DNA targets.
+2. How does CRISCR-Cpf1 differ from CRISPR-Cas9? (Answer: CRISPR-Cpf1 differs in several ways, including the requirement of only a single RNA and its smaller size which makes it easier to deliver into cells and tissues.)
 
-3) In the field of genome engineering, "CRISPR" or "CRISPR-Cas9" is used to refer to various systems that can be programmed to target specific stretches of genetic code and edit DNA at precise locations. With these systems, researchers can modify genes in living cells and organisms, potentially correcting mutations at precise locations in the human genome to treat genetic diseases. Other systems like CRISPR-Cas13 are available that target RNA, offering alternate avenues for use with unique characteristics.
+3. What is the goal for the miniature CRISPR, CasMINI? (Answer: The goal for CasMINI is to make the molecule as small as possible to easily traverse inside of cells and get to its DNA target.)
+
+4. Why is using CRISPR super easy, flexible, and robust compared to other technologies? (Answer: Using CRISPR is easy, flexible, and robust because it only takes a couple of weeks and a bit more than a few hundred dollars to set up, in contrast to other technologies that take multiple years and millions of dollars to set up.)
+
+5. What are some concerns about using CRISPR? (Answer: Some concerns about using CRISPR include potential irreversible effects on the environment, and the high costs associated with current CRISPR medicine.)
+
+6. How can we make the technology of CRISPR reversible in the future? (Answer: Hopefully, in the future we can make this technology reversible by installing a switch so that if we make something that turns out to be less than ideal, we still have some way to reset it.)
+
+7. What strategies does the human body have to prevent foreign DNA from getting inside? (Answer: The human body has many strategies to prevent foreign DNA from getting in, including having cells designed to resist any invading DNA.)

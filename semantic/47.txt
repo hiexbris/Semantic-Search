@@ -1,1 +1,8 @@
-The difference between GDP (Gross Domestic Product) and GNP (Gross National Product) is that GDP defines its scope according to location, while GNI defines its scope according to ownership. In a global context, world GDP and world GNI are equivalent terms. GDP includes only the production within a country's borders, whereas GNI includes the product produced by enterprises owned by a country's citizens regardless of where they are located. Therefore, if a foreign entity owns productive enterprises in a country, those productions will be included in the GDP but not the GNI of that country. Conversely, production by an enterprise outside the country, but owned by one of its citizens, is part of the country's GNI but not its GDP.
+The provided text discusses the differences between Gross Domestic Product (GDP) and Gross National Product (GNP). The key point is that while both measures aim to determine a country's economic activity, they differ in how they account for production by domestic enterprises operating abroad or foreign-owned enterprises within the country.
+
+   - GDP focuses on the total value of all goods and services produced within a country's borders, regardless of nationality.
+   - GNP considers only the production attributed to citizens of the country, whether it occurs at home or abroad.
+
+   Examples given in the text include Japan, where profits earned by Japanese companies operating abroad are subtracted from the GNP, and Armenia, where foreign investments and MNCs increase the GDP but not the GNP because GNP does not count these as domestic production. This results in a higher GDP than GNP for developed countries like Japan and a lower GNP than GDP for developing countries with significant foreign investment.
+
+   In summary, the text explains that both measures provide insights into a country's economic activity, but they differ in how they account for cross-border production by domestic or foreign enterprises.

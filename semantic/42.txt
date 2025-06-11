@@ -1,9 +1,11 @@
-1. Hemoglobin is a protein complex found within red blood cells. It carries oxygen from the lungs to the body's tissues and carbon dioxide back to the lungs.
-2. When red blood cells are broken down or expire, hemoglobin is released into circulation.
-3. This free hemoglobin is then broken down by macrophages into heme and globin.
-4. The heme molecule undergoes two reactions: an oxidation reaction that produces biliverdin (a green color pigment) and iron, and a subsequent reduction reaction that creates bilirubin (a yellow color tetrapyrrole pigment).
-5. Bilirubin is not soluble in the blood, so it is bound to serum albumin for transport through the bloodstream.
-6. When bilirubin reaches the liver, it is conjugated with glucuronic acid by the enzyme UDP-glucuronyl transferase, creating a water-soluble compound called bilirubin diglucuronide (conjugated bilirubin).
-7. Conjugated bilirubin is then excreted into the gallbladder and eventually enters the intestinal tract via bile.
-8. In the intestine, symbiotic bacteria convert bilirubin into urobilinogen, which is further metabolized into stercobilin and stool's characteristic brown coloration. Some urobilinogen is reabsorbed back into the gastrointestinal cells.
-9. Not found: The exact structure of hemoglobin (molecular formula, number of subunits, etc.)
+1. Hemoglobin is a protein in red blood cells that carries oxygen from the lungs to the body tissues and returns carbon dioxide from the tissues to the lungs.
+2. Each hemoglobin molecule contains four subunits: two alpha (α) and two beta (β).
+3. Oxygen binds reversibly to iron atoms in the center of each heme group within the porphyrin ring of the protein.
+4. The binding of oxygen causes a change in shape, increasing the efficiency of oxygen transport.
+5. In the absence of haptoglobin, hemoglobin can be taken up by CD163 in macrophages for degradation.
+6. Haptoglobin polymers are immediately recognized by CD163 and endocytosed.
+7. The concentration of Hp is lower in individuals with the Hp2-2 phenotype compared to those with the Hp1-1 and Hp1-2 phenotypes, making them more susceptible to Hb-related oxidative stress.
+8. Hemoglobin's ability to bind oxygen cooperatively and be regulated allosterically contributes to its function in transporting oxygen.
+9. The development of α and β genes created the potential for hemoglobin to be composed of multiple distinct subunits.
+10. The preduplication ancestor of the α and β genes was a dimer made up of identical globin subunits, which then evolved to assemble into a tetrameric architecture after the duplication.
+11. Johann Friedrich Engelhart determined the molecular mass of hemoglobin in 1825, making it the first determination of a protein's molecular mass.

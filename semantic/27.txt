@@ -1,1 +1,21 @@
-The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse (c) is equal to the sum of the squares of the lengths of the other two sides (a and b): a² + b² = c². This is also expressed as: c² = a² + b². The theorem is named after the Greek philosopher Pythagoras. However, knowledge about this theorem can be traced back to around 1900–1600 BC in Babylonian mathematics.
+1. To find the hypotenuse (the longest side) of a right triangle given two sides:
+
+   - Let a represent one side, and b represent the other side.
+   - Square both values (a² and b²).
+   - Add the squared values together (a² + b²).
+   - Take the square root of that sum to find the hypotenuse (c = √(a² + b²)).
+
+Examples:
+- If a = 3, and b = 4, then c = √(3² + 4²) = √9 + 16 = 5
+- If a = 7, and b = 24, then c = √(7² + 24²) = √49 + 576 = 25 (approximately)
+
+2. To find either of the shorter sides given the hypotenuse and one side:
+
+   - Let a represent one side, and b represent the other side.
+   - Square the length of the hypotenuse (c²).
+   - Subtract the square of the known side from the squared hypotenuse (c² - a² = b²)
+   - Take the square root of both sides to find the value for one of the shorter sides.
+
+Examples:
+- If a = 3, and c = 5, then b = √(5² - 3²) = √25 - 9 = 4
+- If b = 12, and c = 20, then a = √(20² - 12²) = √400 - 144 = 7 (approximately)

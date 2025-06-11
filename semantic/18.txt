@@ -1,7 +1,19 @@
-1. Absorption of light: Chlorophylls in the thylakoids of chloroplasts absorb light, which is converted into energy. This energy is used to remove electrons from water and form oxygen. The electrons then pass to a major electron acceptor called Quinine.
+1. What is photosynthesis? Photosynthesis is a process by which plants convert carbon dioxide and water into glucose (sugar) and oxygen using energy from sunlight.
 
-2. Transfer Of Electrons: Not found. (This step was not explicitly mentioned in the text provided)
+2. Where does photosynthesis occur? Photosynthesis occurs in the thylakoid membrane of chloroplasts within plant cells.
 
-3. Production Of ATP: After the light-dependent reactions, chemical energies are produced. These energies are used by animals and humans when they consume plants.
+3. What are the products of photosynthesis? The products of photosynthesis are glucose, oxygen, and water.
 
-4. Carbon Fixation: The energy produced is used for the fixation of carbon dioxide into glucose or other organic compounds in a series of reactions called the Calvin cycle. This takes place during the light-independent phase of photosynthesis.
+4. What are the reactants of photosynthesis? The reactants of photosynthesis are carbon dioxide (CO2), water (H2O), sunlight, and photosynthetic pigments (chlorophyll).
+
+5. How are photosynthesis and cellular respiration related? Photosynthesis is an anabolic process that produces organic molecules such as glucose, while cellular respiration is a catabolic process that breaks down these organic molecules to release energy.
+
+6. What is the Calvin cycle? The Calvin cycle is the series of reactions within plant cells that convert carbon dioxide into glucose using energy from the light-dependent reactions of photosynthesis. It consists of three stages: fixation, reduction, and regeneration.
+
+7. What role does chlorophyll play in photosynthesis? Chlorophyll is a light-absorbing pigment found within plant cells that absorbs energy from sunlight and converts it into chemical energy for photosynthesis.
+
+8. What is the difference between light-dependent reactions and light-independent reactions in photosynthesis? Light-dependent reactions occur within the thylakoid membrane of chloroplasts and require sunlight, while light-independent reactions (also known as the Calvin cycle) use energy from the products of the light-dependent reactions to convert carbon dioxide into glucose.
+
+9. Why do plants appear green? Plants appear green because the chlorophyll pigment in their leaves absorbs blue and red wavelengths of sunlight, reflecting the green wavelengths back to our eyes.
+
+10. What is the significance of photosynthesis for living beings? Photosynthesis is essential for plants to produce food and oxygen, which are vital for all living organisms as they form the basis of most food chains on Earth.

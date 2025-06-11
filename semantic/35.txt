@@ -1,5 +1,19 @@
-1. An NRI, PIO, or OCI should file an Income Tax Return (ITR) in India if their total annual income exceeds the specified threshold.
-2. The taxable income for this purpose includes gross total income before giving effect to exemption on re-investment of capital gains and Chapter VI-A deductions such as donations, investment in life insurance policy/ Unit Linked Insurance Policy/Equity Linked Savings Scheme, Mediclaim etc.
-3. The rules and deadlines for filing ITR are similar to that of resident Indians.
-4. It is beneficial to file an ITR voluntarily in many ways, but mandatory only under certain circumstances.
-5. Regular consultation with a tax expert is recommended to ensure adherence to Indian tax regulations and keep abreast of the latest NRI income tax filing rules.
+1. What is the recommended action if a person claiming deduction under section 80DD also wants to claim deduction under section 80DDB?
+
+Answer: It is recommended to file form 10-IA along with return of income for claiming deductions under both sections to avoid any inconvenience later.
+
+2. What is the deduction limit for medical treatments of self or dependant under section 80DDB if not a senior citizen?
+
+Answer: The deduction limit for medical treatments of self or dependant under section 80DDB is Rs. 40,000.
+
+3. What is the deduction limit for interest payments made on loan taken for higher education under section 80E?
+
+Answer: There is no specific deduction limit mentioned for interest payments made on loan taken for higher education under section 80E. The total amount paid towards interest on the loan taken is considered for deduction.
+
+4. What is the deduction limit for interest payments made on loan taken for acquisition of residential house property under section 80EE?
+
+Answer: The deduction limit for interest payments made on loan taken for acquisition of residential house property under section 80EE is not mentioned in the provided text.
+
+5. What are the conditions for rebate (under Section 87A) to be available to residents?
+
+Answer: If you opt for the existing income tax regime, the total income, as defined above, is the income before considering deductions and specified exemptions. The rebate under Section 87A is only available to residents.

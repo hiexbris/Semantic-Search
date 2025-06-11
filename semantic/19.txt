@@ -1,1 +1,9 @@
-The founder of SpaceX is Elon Musk.
+1. SpaceX was founded by Elon Musk in 2002 with an initial investment of $180 million from his PayPal stocks.
+2. The first and second employees were Tom Mueller and Chris Thompson.
+3. SpaceX's primary goal is to decrease the cost and improve the reliability of access to space, ultimately by a factor of ten.
+4. In 2006, SpaceX unveiled its spacecraft under the name Dragon.
+5. SpaceX developed the Falcon 9, which costs significantly less than traditional NASA rockets to develop.
+6. As of 2024, SpaceX operates a Rideshare and Bandwagon (mid inclination) programs for small satellite launches.
+7. COO Gwynne Shotwell and vice president Mark Juncosa oversee Starbase, SpaceX's Texas launch facility.
+8. SpaceX is not publicly traded; a space industry newspaper estimated that SpaceX has a revenue of over $10 billion in 2024.
+9. Not found: information about SpaceX's plans for Mars, the Mars Oasis mission, or any other projects beyond Earth-based operations.

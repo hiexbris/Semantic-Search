@@ -1,1 +1,19 @@
-The half-life of a radioactive isotope is the time it takes for half of its atoms to decay. This period is constant and independent of conditions or initial amount. After one half-life, approximately half of the sample remains. The concept is based on probability: after one half-life, on average, exactly half of the atoms will have decayed. Half-lives can be used in studies of age determination of rocks by measuring the decay period of radium to lead-206. In cases where only one radioactive atom exists, the half-life is defined in terms of probability: "Half-life is the time required for exactly half of the entities to decay on average."
+1. The half-life of a radioactive element represents the time required for half of the element to decay radioactively. It does not mean that the entire element is no longer radioactive after this period.
+
+2. If a sample initially contains 32,000 counts per minute (cpm) and has a half-life of 4 hours, what will be the activity after two half-lives?
+   \[\begin{align*} N_t &= N_0 \left( 0.5 \right)^2 \\[4pt] &= \left( 32,000 \right) \left( 0.5 \right) \left( 0.5 \right) \\[4pt] &= 8,000 \: \text{cpm} \end{align*} \]
+
+3. The half-life is a characteristic property of unstable atomic nuclei and the particular way they decay. Alpha and beta decay are generally slower processes than gamma decay. Half-lives for beta decay range upward from one-hundredth of a second, while for alpha decay they range upward from about one one-millionth of a second. Half-lives for gamma decay may be too short to measure, though a wide range of half-lives for gamma emission has been reported.
+
+4. The concept of half-life can refer to the length of time for the number of incident cases in a disease outbreak to drop by half, particularly if the dynamics of the outbreak can be modeled exponentially. In this context, it is important to understand that the rate of decay or infection will not remain constant over the entire duration but may follow an exponential pattern.
+
+5. If we have an initial activity of 32,000 cpm and a half-life of 4 hours, what will the activity be after four half-lives?
+   \[\begin{align*} N_t &= N_0 \left( 0.5 \right)^4 \\[4pt] &= \left( 32,000 \right) \left( 0.5 \right) \left( 0.5 \right) \left( 0.5 \right) \left( 0.5 \right) \\[4pt] &= 2000 \: \text{cpm} \end{align*} \]
+
+6. Exponential decay can be described by the following four equivalent formulas:
+   - N(t) = N0*(1/2)^(t/t1/2)
+   - N(t) = (2^-(t/t1/2))*N0
+   - N(t) = N0*e^(-t/τ)
+   - N(t) = N0*e^(-λt), where t1/2 is the half-life, τ is the decay constant (τ=ln(2)/t1/2), and λ is the decay constant (λ=1/τ).
+
+7. In chemical kinetics, the value of the half-life depends on the reaction order: for first-order reactions, it depends only on the concentration of the reactant, while for second-order reactions, it depends on both the concentration of the reactants and the rate constant.

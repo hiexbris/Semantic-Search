@@ -1,7 +1,15 @@
-1. To apply for an Indian passport online, the process is not specified in the provided text as it only discusses passport services offered through VFS Global and requirements for submitting a physical application at the Visa Office.
+1. To reissue a lost or damaged passport, you can apply online through the VFS Global website (<https://visa.vfsglobal.com/usa/en/ind/apply-passport>). In case of emergency travel due to an emergency like serious illness or death in the family, you should apply for an Emergency Certificate (EC) on the Consulate General of India, San Francisco website (<www.cgisf.gov.in>).
 
-2. The physical application documents can be submitted to the Visa Office within office hours by the visa applicant or an agent. The required documents include both "A. Basic Documents" and "B. General Documents". If the physical documents do not meet the requirements or are insufficient, the application may be returned, and the applicant will need to fill in the COVA forms again.
+2. The new passport will have a new passport number.
 
-3. In order to apply for a passport service, the applicant must clearly indicate their address on which the Police clearance could be done, specifically indicating the police station and district with PIN code. The normal processing time of a passport is 3 weeks, but if there are issues with the Police Verification Report (PVR), the processing time may take approximately 30 days or more.
+3. If your passport expired more than three years ago, you'll need to undergo fresh police verification.
 
-4. Not found: There is no information in the text about how to apply for an Indian passport online specifically.
+4. An ordinary Indian passport contains 36 or 60 pages and is valid for 10 years from the date of issue. For international travel, a passport must be valid for at least six months.
+
+5. To include your spouse's name in your passport, you will need to submit one of the following documents along with your application:
+   - Marriage Certificate issued by the Indian Mission/Post abroad.
+   - Marriage Certificate issued by Foreign Government, duly attested/apostille either by the Indian Mission/Post in the jurisdiction from where the Marriage Certificate was issued or Concerned Authority in USA.
+   - Marriage Certificate issued in India by Indian authorities (Marriage Officer/Registrar of Marriage).
+   - Marriage Certificate issued by Foreign Embassy/High Commission/Consulate of that country in USA (to which the foreign spouse is a citizen).
+
+6. As for your question about Aadhaar and passports, I found no information in the text to confirm or deny this connection. However, there have been proposals and pilot projects related to linking Aadhaar to SIM cards and government services, but it's unclear if these plans extend to passports.
