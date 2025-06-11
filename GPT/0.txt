@@ -1,2 +1,34 @@
-The countries that participated in the G7 Summit 2024 were: United States, United Kingdom, Canada, France, Germany, Italy, and Japan. The European Union also took part as a non-enumerated member.
+GPT-4o ("o" for omni) is OpenAI’s flagship multimodal model released in May 2024. It represents a significant advancement over GPT-4 and GPT-4-turbo, offering improvements in performance, speed, and usability across text, image, audio, and video inputs.
 
+Key Features:
+Multimodal Capabilities
+
+Inputs: Accepts text, images, and audio (including real-time speech).
+
+Outputs: Generates text, images, audio, and expressive voice responses.
+
+Enables natural, real-time conversation with voice and vision combined.
+
+Faster & Cheaper
+
+GPT-4o is faster and 50% cheaper than GPT-4-turbo in the OpenAI API.
+
+Optimized for latency-sensitive use cases like real-time agents and chat.
+
+Improved Reasoning & Coding
+
+Performs on par or better than GPT-4-turbo on complex reasoning, coding tasks, and math benchmarks.
+
+Supports 128k context window.
+
+Real-Time Voice Assistant
+
+The new voice mode enables real-time conversation with emotional tone, interruptions, and expressive feedback.
+
+Built-in emotion recognition and reactive responses.
+
+Unified Model Architecture
+
+Unlike earlier models that stitched together multiple subsystems (e.g. Whisper + GPT + TTS), GPT-4o is trained end-to-end across modalities.
+
+This leads to more fluid and natural human-computer interaction.

@@ -12,12 +12,10 @@ class AnswerSummary:
     def format_prompt(self, query, passages):
         combined_passage = "\n".join(passages)
         prompt = (
-            f"You are a helpful assistant. Answer the following question using only the text provided.\n\n"
+            f"You are a helpful assistant. Answer the following question using text provided and you're knowledge.\n\n"
             f"Question: {query}\n\n"
             f"Text:\n{combined_passage}\n\n"
             f"- Only include relevant information.\n"
-            f"- No hallucinations or extra information.\n"
-            f"- If the answer isn't clearly in the text, say 'Not found'."
         )
         return prompt
 

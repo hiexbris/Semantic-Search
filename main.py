@@ -3,12 +3,15 @@ from top_wiki_pages import HybridRetriever
 from hybrid_chunk_retrieval import HybridChunkRetriever
 from top_non_wiki_pages import GoogleCSERetriever
 from LLM_output import AnswerSummary
-import sys, io, json
+import sys, io, json, os
 import time
 import gc
 import torch
+from dotenv import load_dotenv #type:ignore
+load_dotenv()
+api_key = os.getenv("API_KEY")
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', line_buffering=True)
-engine = GoogleCSERetriever(api_key="AIzaSyDLVoQR9QPYNupSs30w5jwOPJPEmRpdhbw", search_engine_id="b4978ed8b79894c9d", top_k=3)
+engine = GoogleCSERetriever(api_key, top_k=3)
 closest_websites = HybridRetriever(top_k=3, N_DENSE=5, N_SPARSE=3, k_rpf=60, alpha=0.6)
 chunks_websites = ChunkEmbedder(chunk_size=150, chunk_overlap=30)
 
