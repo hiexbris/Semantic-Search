@@ -1,0 +1,11 @@
+faiss-cpu
+sentence-transformers
+scikit-learn
+numpy
+scipy
+joblib
+requests
+python-dotenv
+bert-score
+nltk
+torch

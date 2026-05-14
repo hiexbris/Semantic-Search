@@ -11,6 +11,11 @@ from dotenv import load_dotenv #type:ignore
 load_dotenv()
 api_key = os.getenv("API_KEY")
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', line_buffering=True)
+
+# Set to True to strictly use the offline Wikipedia index. 
+# Set to False to also query Google for live web results.
+SEARCH_WIKI_ONLY = True
+
 engine = GoogleCSERetriever(api_key, top_k=3)
 closest_websites = HybridRetriever(top_k=3, N_DENSE=5, N_SPARSE=3, k_rpf=60, alpha=0.6)
 chunks_websites = ChunkEmbedder(chunk_size=150, chunk_overlap=30)
@@ -43,6 +48,14 @@ def generate_nonwiki_answers(query):
 
 def process_query(query):
     wiki_passage = generate_wiki_answers(query)
+    
+    if SEARCH_WIKI_ONLY:
+        print("Skipping non-wiki web search (Offline Mode Enabled)")
+        return {
+            "query": wiki_passage["query"],
+            "merged_contexts": wiki_passage["merged_contexts"]
+        }
+        
     nonwiki_passage = generate_nonwiki_answers(query)
     merged_passage = {
         "query": wiki_passage["query"],

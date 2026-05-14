@@ -1,7 +1,7 @@
 import os
 import subprocess
 from collections import defaultdict
-OLLAMA_PATH = r"C:\Users\A-Team\AppData\Local\Programs\ollama\ollama.exe"  # Update if different
+OLLAMA_PATH = "ollama"  
 
 class AnswerSummary:
     def __init__(self, model_name="mistral:instruct"):
