@@ -9,3 +9,4 @@ python-dotenv
 bert-score
 nltk
 torch
+beautifulsoup4

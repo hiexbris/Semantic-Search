@@ -1,4 +1,0 @@
-1. The Richter scale is a measure of the size of an earthquake based on the largest seismic wave recorded at a particular location using a specific type of seismograph (Wood-Anderson short period instrument located 100 km from the epicenter).
-2. The output of a seismograph is known as a seismogram, which records the shaking of the Earth.
-3. Magnitude is a single value that describes the size of the earthquake at its source, while intensity is the measure of shaking at different locations around the earthquake, depending on distance and underlying rock or soil makeup.
-4. The Richter scale has been replaced by the Moment Magnitude Scale (Mw) which calculates an earthquake's seismic moment (M0), avoiding saturation problem that affected the original Richter scale for earthquakes with magnitudes greater than 6.5.

@@ -1,1 +1,0 @@
-Blockchain ensures data integrity by storing transactions in chained blocks secured via cryptographic hashes. Each block refers to the previous block’s hash, making tampering evident. Decentralized consensus among nodes prevents unauthorized changes.
