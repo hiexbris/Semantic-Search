@@ -4,7 +4,7 @@ from collections import defaultdict
 OLLAMA_PATH = "ollama"  
 
 class AnswerSummary:
-    def __init__(self, model_name="mistral:instruct"):
+    def __init__(self, model_name="mistral:instruct"): #phi3 if crashes
         self.model_name = model_name
         os.makedirs("temp", exist_ok=True)
         print(f"\n======= USING MODEL: {self.model_name} with OLLAMA =======\n")
@@ -19,20 +19,25 @@ class AnswerSummary:
         )
         return prompt
 
- 
     def generate_summary(self, prompt):
+        import requests
+        url = "http://localhost:11434/api/generate"
+        data = {
+            "model": self.model_name,
+            "prompt": prompt,
+            "stream": False
+        }
         try:
-            output = subprocess.check_output(
-                [OLLAMA_PATH, "run", self.model_name],
-                input=prompt.encode("utf-8"),
-                stderr=subprocess.DEVNULL,
-                timeout=60
-            )
-            return output.decode("utf-8").strip()
-        except subprocess.TimeoutExpired:
-            return "Timeout while generating response."
-        except subprocess.CalledProcessError as e:
-            return f"Error: {e.output.decode('utf-8').strip()}"
+            # 5 minute timeout to accommodate computers running on CPU
+            response = requests.post(url, json=data, timeout=300)
+            if response.status_code == 200:
+                return response.json().get("response", "").strip()
+            else:
+                return f"Error: Ollama returned status {response.status_code}. Make sure Ollama app is running."
+        except requests.exceptions.Timeout:
+            return "Timeout while generating response. Your computer might need more time to process."
+        except requests.exceptions.ConnectionError:
+            return "Error: Could not connect to Ollama. Please make sure the Ollama app is open and running in the background!"
 
     def group_passages_by_title(self, contexts):
         grouped = defaultdict(list)

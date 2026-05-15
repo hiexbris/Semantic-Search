@@ -21,7 +21,10 @@ class ChunkEmbedder:
 
     def fetch_wiki_text(self, url):
         try:
-            response = requests.get(url, timeout=10)  # 10 seconds timeout
+            headers = {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+            response = requests.get(url, headers=headers, timeout=10)  # 10 seconds timeout
             if response.status_code != 200:
                 print(f"[WARN] Could not fetch page (status {response.status_code}): {url}")
                 return ""
